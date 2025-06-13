@@ -1,4 +1,4 @@
-# Disease Prediction and Medical Recommendation System 🩺
+# Medicine Recommendation system 🩺
 
 This repository contains the implementation of a Disease Prediction and Medical Recommendation System developed for the CS 584 Machine Learning course.
 
@@ -16,7 +16,6 @@ The project files are organized into the following directories:
 - `Symptom-severity.csv`: Severity of symptoms.
 - `symptoms_df.csv`: Symptoms with corresponding disease labels.
 - `Training.csv`: Dataset for training machine learning models.
-- `workout_df.csv`: Recommended workouts for diseases.
 
 ### 2. model
 - `RandomForest.pkl`: Trained Random Forest model for disease prediction.
@@ -25,7 +24,7 @@ The project files are organized into the following directories:
 - `index.html`: Frontend interface for the Disease Prediction System.
 
 ### 4. static
-- `bgCover.jpg`, `img.png` : Images utilized in the frontend webpage.
+- `bgCover.jpg`, `project.png` : Images utilized in the frontend webpage.
 
 ### 5. screenshots
 - Includes screenshots of the project.
