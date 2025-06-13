@@ -50,15 +50,9 @@ To run the Disease Prediction and Medical Recommendation System:
    ```bash
    http://localhost:5000
 
-## Team Members
-
-- Tanmay Pramanick - A20541164
-- Kunal Rajput - A20540912
-- Soham Sonar - A20541266
-
 ## Project Files Overview
 
-- `main.py`: Entry point for the Flask web application.
+- `new.py`: Entry point for the Flask web application.
 - `disease_prediction_system.ipynb`: Jupyter Notebook with data preprocessing and model training.
 - `CS584_Project_Report.pdf`: Detailed report on methodologies, model evaluation, results, and future enhancements.
 - `index.html`: Front-end interface for the web application.
